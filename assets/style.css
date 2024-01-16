@@ -857,9 +857,7 @@ body{
 .info{
   grid-area: info;
 }
-.map{
-  grid-area: map;
-}
+
 .contact{
   padding: 40px;
   background: var(--color2);
